@@ -1,12 +1,12 @@
 communitycoin-bootstrap
 =======================
 
-bootstrap for communitycoin, contains to approx block 386,100
+bootstrap for communitycoin, contains to approx block 386,000
 see
 https://bitcointalk.org/index.php?topic=558319.0 for information on community coin
 
 zip file at location
-
+https://mega.co.nz/#!ZNky3S7T!Pm4REKaA4312rSiAUd4G-QJ4QBZgsFutmf8L_z8po3E
 contains 
 copy of blk0001.dat renamed to bootstrap.dat
 
